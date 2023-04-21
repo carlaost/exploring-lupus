@@ -3,5 +3,4 @@ astroquery
 matplotlib
 numpy
 scipy
-linmix
 lifelines
