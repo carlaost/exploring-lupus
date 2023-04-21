@@ -1,0 +1,93 @@
+|             Name|  Mgas|l_Mgas|b_Mgas|B_Mgas|
+|             char|double|  char|double|double|
+|                 |      |      |      |      |
+|             null|  null|  null|  null|  null|
+ J15430131-3409153    1.0      <   null   null 
+ J15430227-3444059    1.0      <   null   null 
+ J15445789-3423392    0.3      <   null   null 
+ J15450634-3417378    0.1          null    3.1 
+ J15450887-3417333    3.2           1.0   10.5 
+ J15592523-4235066    0.3      <   null   null 
+ J16000060-4221567    0.3      <   null   null 
+ J16000236-4222145    0.7          null    1.0 
+ J16002612-4153553    0.3      <   null   null 
+ J16011549-4152351    6.7           1.0   31.4 
+ J16070384-3911113    1.4           0.3   10.5 
+ J16070854-3914075    0.9          null    3.1 
+ J16073773-3921388    1.0      <   null   null 
+ J16075475-3915446    1.0      <   null   null 
+ J16080017-3902595    1.0      <   null   null 
+ J16080175-3912316    1.0      <   null   null 
+ J16081497-3857145    0.1          null    1.0 
+  J160828.1-391310    1.0      <   null   null 
+ J16083070-3828268    8.2           3.1   31.4 
+  J160831.1-385600    1.0      <   null   null 
+ J16084940-3905393    1.0      <   null   null 
+ J16085324-3914401    0.2          null    3.1 
+ J16085373-3914367    1.0      <   null   null 
+ J16085529-3848481    1.0      <   null   null 
+ J16085828-3907355    1.0      <   null   null 
+ J16085834-3907491    1.0      <   null   null 
+ J16090141-3925119    1.0          null    1.0 
+ J16091644-3904438    1.0      <   null   null 
+ J16092032-3904015    1.0      <   null   null 
+ J16092317-3904074    1.0      <   null   null 
+ J16092697-3836269    0.4          null   10.5 
+  J160934.2-391513    1.0      <   null   null 
+ J16093928-3904316    1.0      <   null   null 
+ J16095628-3859518    1.0      <   null   null 
+ J16100133-3906449    1.0      <   null   null 
+ J16101307-3846165    1.0      <   null   null 
+ J16101857-3836125    1.0      <   null   null 
+ J16101984-3836065    1.0      <   null   null 
+ J16102741-3902299    1.0      <   null   null 
+ J16102955-3922144    0.4          null    1.0 
+ J16104536-3854547    1.0      <   null   null 
+ J16115979-3823383    1.0      <   null   null 
+ J16120445-3809589    1.0      <   null   null 
+ J16121120-3832197    1.0      <   null   null 
+ J16124373-3815031    1.0      <   null   null 
+ J16134410-3736462    0.4          null   10.5 
+            MY Lup    0.4          null    3.1 
+            RY Lup    2.5           1.0   10.5 
+            Sz 100    0.4          null    1.0 
+            Sz 103    1.0      <   null   null 
+            Sz 104    1.0      <   null   null 
+            Sz 106    1.0      <   null   null 
+           Sz 108B    0.9           0.3    3.1 
+            Sz 110    1.0      <   null   null 
+            Sz 111    3.3           1.0   10.5 
+            Sz 112    1.0      <   null   null 
+            Sz 113    1.0      <   null   null 
+            Sz 114    0.4          null    3.1 
+            Sz 115    0.3      <   null   null 
+            Sz 117    1.0      <   null   null 
+            Sz 118    0.5          null   10.5 
+           Sz 123A    0.5          null    1.0 
+           Sz 123B    1.0      <   null   null 
+            Sz 129    0.2          null    1.0 
+            Sz 130    0.2          null    3.1 
+            Sz 131    0.1          null    1.0 
+            Sz 133    0.3          null    3.1 
+             Sz 65    0.7           0.3   10.5 
+             Sz 66    0.2          null    1.0 
+             Sz 68    0.8           0.3   10.5 
+             Sz 69    0.2          null    3.1 
+             Sz 71    0.3          null    1.0 
+             Sz 72    0.3      <   null   null 
+             Sz 73    1.0      <   null   null 
+             Sz 74    0.3      <   null   null 
+            Sz 81A    0.3      <   null   null 
+             Sz 82    6.3           3.1   31.4 
+             Sz 83    2.8           1.0   10.5 
+             Sz 84    0.4          null    3.1 
+            Sz 88A    1.0      <   null   null 
+            Sz 88B    1.0      <   null   null 
+             Sz 90    0.3          null   10.5 
+             Sz 95    0.2          null    3.1 
+             Sz 96    1.0      <   null   null 
+             Sz 97    1.0      <   null   null 
+             Sz 98    0.4          null   10.5 
+             Sz 99    1.0      <   null   null 
+         V1192 Sco    1.0      <   null   null 
+          V856 Sco    1.0      <   null   null 
